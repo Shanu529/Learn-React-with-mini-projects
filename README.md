@@ -1,2 +1,2 @@
 # Learn-React-with-mini-projects
-learn React using 
+learn React using Vite
